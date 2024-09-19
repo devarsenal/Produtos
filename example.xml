@@ -13,5 +13,31 @@
     <inventory_quantity>60</inventory_quantity>
     <status>published</status>
   </Product>
+   <Product>
+    <id>Camisa</id>
+    <title>Camiseta Preta de Algodão Arsenal Talks – Serigrafada com Qualidade SeaKing (Tamanhos P, M, G, GG)</title>
+    <description>Camiseta de algodão preta serigrafada com o logo do podcast Arsenal Talks, fabricada com a qualidade da SeaKing Uniformes Profissionais. Disponível nos tamanhos P, M, G e GG.</description>
+    <link>https://loja.arsenal.pro.br/produto/camiseta-preta-de-algodao-arsenal-talks-serigrafada-com-qualidade-seaking-tamanhos-p-m-g-gg/</link>
+    <image_link>https://loja.arsenal.pro.br/wp-content/uploads/2024/09/Sem-Titulo-1Prancheta-1.jpg</image_link>
+    <tags>Camisas</tags>
+    <price>89,90</price>
+    <sku>19092024</sku>
+    <categories>Camisas</categories>
+    <inventory_quantity>60</inventory_quantity>
+    <status>published</status>
+  </Product>
+   <Product>
+    <id>Caneca</id>
+    <title>Caneca Arsenal Talks em Porcelana Preta – Logo Podcast e Motor de Vendas AVANCE</title>
+    <description>Caneca exclusiva do Arsenal Talks feita em porcelana preta pela Artex, com logo do podcast e imagem do Motor de Vendas AVANCE. Ideal para profissionais e entusiastas de marketing e vendas.</description>
+    <link>https://loja.arsenal.pro.br/produto/caneca-arsenal-talks-em-porcelana-preta-logo-podcast-e-motor-de-vendas-avance/</link>
+    <image_link>https://loja.arsenal.pro.br/wp-content/uploads/2024/09/arsenal-talks-caneca-comprar.jpg</image_link>
+    <tags>Canecas</tags>
+    <price>70,00</price>
+    <sku>190920244</sku>
+    <categories>Canecas</categories>
+    <inventory_quantity>60</inventory_quantity>
+    <status>published</status>
+  </Product>
 
 </Products>
