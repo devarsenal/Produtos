@@ -40,4 +40,18 @@
     <status>published</status>
   </Product>
 
+ <Product>
+    <id>Camisa 2</id>
+    <title>Camiseta Preta de Algodão Motor de Vendas AVANCE (Tamanhos P, M, G, GG)</title>
+    <description>Camiseta de algodão preta com o Motor de Vendas AVANCE , fabricada com a qualidade da Via Rosa Uniformes Profissionais. Disponível nos tamanhos P, M, G e GG.</description>
+    <link>https://loja.arsenal.pro.br/produto/camiseta-preta-de-algodao-motor-de-vendas-avance-tamanhos-p-m-g-gg/</link>
+    <image_link>https://loja.arsenal.pro.br/wp-content/uploads/2024/10/Sem-Titulo-1Prancheta-1-1.jpg</image_link>
+    <tags>Camisetas</tags>
+    <price>89,90</price>
+    <sku>10102024</sku>
+    <categories>Camisetas</categories>
+    <inventory_quantity>600</inventory_quantity>
+    <status>published</status>
+  </Product>
+
 </Products>
